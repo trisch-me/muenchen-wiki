@@ -8,3 +8,5 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 Рекомендую так же https://github.com/ru-de/faq - гитхаб о жизни в Германии с уклоном в сторону Берлина. Скорее всего темы будут пересекаться, но хотелось чего-то, где будут указаны конкретные списки и советы именно по городу Мюнхену и окрестностям - хорошие кафе, хорошие врачи, списки мест для посещения и другая полезная информация по столице Баварии.
 
 У нас есть чат в телеграме - https://t.me/muenchentraktor. Если у вас есть вопросы о жизни в Мюнхене, добро пожаловать в чат.
+
+Есть забытый чат в слаке (кандидат на удаление, если не оживет) - https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk
