@@ -1,6 +1,6 @@
 # muenchen-wiki
 Information about life in Munich. 
-join our (russian-speaking) chat on telegram https://t.me/muenchentraktor
+join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 
 Хелло всем, этот гитхаб будет сборником статей о жизни и лайфхаках в Германии, и в частности именно в Мюнхене. Всем известно, что Бавария не совсем Германия, как говорят сами немцы.
 Если вам есть что сказать - велкам.
