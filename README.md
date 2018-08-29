@@ -9,4 +9,4 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 
 У нас есть чат в телеграме - https://t.me/muenchentraktor. Если у вас есть вопросы о жизни в Мюнхене, добро пожаловать в чат.
 
-Есть забытый чат в слаке (кандидат на удаление, если не оживет) - https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk
+Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
