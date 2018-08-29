@@ -1,4 +1,4 @@
-# muenchen-wiki
+# Вики о жизни в Мюнхене и Германии
 Information about life in Munich. 
 join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 
