@@ -11,4 +11,4 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 
 Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
 
-Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [карте гугл мапс](https://www.google.com/maps/d/viewer?mid=1sarCB8LNRc-LgxyQSmirN-Qh92ENxS75&hl=en&usp=sharing) :)
+Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [карте гугл мапс](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=1sarCB8LNRc-LgxyQSmirN-Qh92ENxS75&ll=48.13096010000001%2C11.571185799999967&z=11) :)
