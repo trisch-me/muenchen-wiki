@@ -24,24 +24,24 @@
 Снимать квартику у таких фирм намного проще и удобнее.
 
 
-1. (ÖLLBRUNNER-IMMOBILIEN-GMBH)[http://www.oellbrunner.de ]
+1. ÖLLBRUNNER-IMMOBILIEN-GMBH — http://www.oellbrunner.de
  
-2. (Tectareal Asset Services GmbH Region Sued)[http://www.tectareal.net]
+2. Tectareal Asset Services GmbH Region Sued — http://www.tectareal.net
 
-3. (Maximilian Immobilien e. K.)[http://www.maximilianimmobilien.de]
+3. Maximilian Immobilien e. K. — http://www.maximilianimmobilien.de
  
-4. (IMMOBILIEN JUGAN GmbH)[http://jugan.de] 
+4. IMMOBILIEN JUGAN GmbH — http://jugan.de 
 
-5. (Rudolf Schäfer KG)[http://www.rudolfschaefer.de]
+5. Rudolf Schäfer KG — http://www.rudolfschaefer.de
 
-6. (Wohnbau GmbH)[http://www.wohnbau-gmbh.de]
+6. Wohnbau GmbH — http://www.wohnbau-gmbh.de
 
-7. (GEOWAG)[https://www.gewofag.de]
+7. GEOWAG — https://www.gewofag.de
 
-8. (WSB Bayern)[http://www.wsb-bayern.de]
+8. WSB Bayern — http://www.wsb-bayern.de]
 
-9. (Vonovia)[http://www.vonovia.de]
+9. Vonovia — http://www.vonovia.de
 
-10. (Bayerische Versorgungskammer)[http://www.bvk-immobilien.de]
+10. Bayerische Versorgungskammer — http://www.bvk-immobilien.de
 
-(на основании (nodima.ru)[http://www.nodima.ru/travel/munich2013/rent-flat-2016])
+(на основании http://www.nodima.ru/travel/munich2013/rent-flat-2016)
