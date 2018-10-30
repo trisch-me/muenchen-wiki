@@ -10,4 +10,5 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 **Zahnarzt - стоматолог**
 
 * Dr. Mohrenschildt - https://roka9.de/
+* AllDent Zahnzentrum - стоматологическая неотложка, 24/7 - https://www.alldent-zahnzentrum.de/zahnarzt-notdienst-muenchen.html
 
