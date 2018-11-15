@@ -45,3 +45,5 @@
 10. Bayerische Versorgungskammer — http://www.bvk-immobilien.de
 
 (на основании http://www.nodima.ru/travel/munich2013/rent-flat-2016)
+
+11. Heimbau Bayern - http://www.heimbau-bayern.de/
