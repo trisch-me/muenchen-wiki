@@ -15,3 +15,12 @@
 * Wer früher stirbt ist länger tot
 * Das Leben der Anderen
 
+**Кинотеатры**
+
+* Mathäser Filmpalast
+*Bayerstrasse 3-5 80335 München* https://www.mathaeser.de/mm
+Есть сеансы на Русском, Польском и Турецком языках
+
+* CINEMA Filmtheater 
+*Nymphenburger Str. 31* http://www.cinema-muenchen.de/
+Ксть сеансы на Английском, Французком, Итальянском языках
