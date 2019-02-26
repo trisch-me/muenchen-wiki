@@ -16,6 +16,8 @@
 - https://immobilienmarkt.sueddeutsche.de/Angebote/mieten/Wohnen-Stadt_Muenchen
 - https://www.mrlodge.com/ - мебелированные апартаменты. Договора только на ограниченное время. 
 
+Если вы переезжаете в пределах Германии, то вот отличный сайт, который расскажет вам в какие службы необходимо сообщить о вашем переезде и вообще какие шаги нужно предпринять https://www.hausfrage.de/ummelden/
+
 ## Hausverwaltung München
 
 Список фирм управляющей недвижимостью для сдачи в аренду.
