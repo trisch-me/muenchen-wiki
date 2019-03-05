@@ -14,6 +14,9 @@
 
 * Wer früher stirbt ist länger tot
 * Das Leben der Anderen
+* Der bewegte Mann
+* Knockin on heaven's door
+* Kleine haie
 
 **Кинотеатры**
 
