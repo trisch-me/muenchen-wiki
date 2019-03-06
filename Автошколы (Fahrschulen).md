@@ -5,7 +5,7 @@
 [089 Fahrschule](https://www.089-fahrschule.de/) автошкола на Josephsburgstraße 58.
 
 Общая информация:
-![089](Resources/Fahrschulen/089/089.jpg)
+![089](Resources/Fahrschulen/089/089.png)
 
 Цены:
-![Preise](Resources/Fahrschulen/089/089-preise.jpg)
+![Preise](Resources/Fahrschulen/089/089-preise.png)
