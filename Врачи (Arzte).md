@@ -3,7 +3,7 @@
 
 **Allgemein medizin - общая медицина**
 
-Hausarzt - он же домашний врач. Тот врач, к которому вы идете, если болит горло или насморк, если у вас есть вопросы, если непонятная херня, если надо сделать прививки и т.д. 
+Hausarzt - он же домашний врач. Тот врач, к которому вы идете, если болит горло или насморк, если у вас есть вопросы, если непонятная херня, если надо сделать прививки и т.д.
 Хороший домашний врач просто необходим. Раньше даже нельзя было другого врача посетить без направления от домашнего врача. Сейчас такое правило давно не действует, но можно ходить за советами и рекомендациями. Когда врач хороший - это того стоит.
 * Frau Alcock - http://alcock-bogner.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/innere-allgemeinmediziner/dr-ulrike-alcock/uebersicht/80317078_1/)
 * Frau Armborst (München Kreis - Ismaning) - http://praxis-armborst.de/, [ссылка на Jameda](https://www.jameda.de/ismaning/aerzte/innere-allgemeinmediziner/katja-armborst/uebersicht/81344582_1/)
@@ -11,9 +11,10 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 
 **Zahnarzt - стоматолог**
 
+* Frau Natalie Fishkin - врач стоматолог, профессионал своего дела http://www.zahnarztpraxis-fishkin.de/index_ru.html, [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/natalie-fishkin/uebersicht/81326720_1/)
 * Dr. Mohrenschildt - специализация протезирование и коронки, в праксисе так же работает хороший врач, который лечит пародонтоз, https://roka9.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/implantologen/dr-sebastian-von-mohrenschildt/uebersicht/81166263_1/)
 * AllDent Zahnzentrum - стоматологическая неотложка, 24/7, https://www.alldent-zahnzentrum.de/zahnarzt-notdienst-muenchen.html, [ссылка на Jameda](https://www.jameda.de/muenchen/mvz-medizinische-versorgungszentren/alldent-zahnzentrum-standort-muenchen-ost/uebersicht/71401387000_2/)
-
+* Dr. I. Riedel - на сайтах указан русский язык, но по факту никто не говорит на русском, как врач хороший [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/parodontologen/dr-i-riedel/uebersicht/81012915_1/)
 
 **Frauenarzt - гинеколог**
 
@@ -31,5 +32,3 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 * Tiergesundheitszentrum München - очень качественные ветеринары, https://www.tgz-muenchen.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/praxisgemeinschaften/tiergesundheitszentrum-muenchen-dres-astrid-schubert-und-kerstin-koerber/uebersicht/71252666000_2/)
 * Dr. med. Vet. Andre Synilo - русскоговорящий врач ветеринар, http://tierarzt-feldkirchen.de/
 * Tierklinik Oberhaching, Notfall Klinik - полностью оборудованная больница для животных, работает 24 часа в сутки, для экстренных случаев, https://www.tierklinik-oberhaching.de/
-
-
