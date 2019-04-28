@@ -21,6 +21,7 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 
 * Dr. med. Katja Freitag, очень квалифицированная и приятная врач, из-за этого новые клиенты могут долго ждать первого термина, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/frauenaerzte-gynaekologen/dr-katja-freitag/uebersicht/80125728_1/)
 * Dr. med. Yevgeniya Sorokina, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/frauenaerzte-gynaekologen/dr-yevgeniya-sorokina/uebersicht/81166196_1/)
+* Dr. med. Elena Yuferova, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/frauenaerzte-gynaekologen/dr-elena-yuferova/uebersicht/81038977_1/)
 
 
 **Orthopäd - ортопед**
