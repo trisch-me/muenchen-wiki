@@ -60,6 +60,7 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [замена эксцентрикам](https://www.amazon.de/gp/product/B007M32HVS/)
 - [U-lock с тросом](https://www.amazon.de/Kryptonite-Bügelschloss-Evolution-Mini-7-U-Lock/dp/B07BH26XR8/)
 - [Второй замок с цепью](https://www.amazon.de/BURG-WÄCHTER-Kettenkombination-Gehärtete-Vierkantkette-Kettenlänge/dp/B001BATNBK/)
+- [Замок с цепью](https://www.rosebikes.de/kryptonite-evolution-series-4-integrated-chain-1090-kettenschloss-852287) - 90cm x 10mm цепь с надёжным замком. Из недостатков - довольно тяжелыйю.
 
 ## Основыне городские велопорталы
 
@@ -87,3 +88,7 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [правила и книги от MORAVIA Academy](http://www.stvzo.de/stvzo/B6.htm)
 - [портал Fahrrad XXL](https://www.fahrrad-xxl.de/beratung/fahrrad/stvzo/)
 - [чек-лист от focus.de](https://www.focus.de/auto/praxistipps/verkehrssicheres-fahrrad-das-besagt-die-stvo_id_7480659.html)
+
+## Уличные рем. станции 
+- [Moosach](https://goo.gl/maps/ws7WaF3poSBgKhV16)
+- [Olimpia Park](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
