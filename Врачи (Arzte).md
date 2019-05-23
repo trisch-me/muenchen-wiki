@@ -15,7 +15,7 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 * Frau Natalie Fishkin - врач стоматолог, профессионал своего дела http://www.zahnarztpraxis-fishkin.de/index_ru.html, [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/natalie-fishkin/uebersicht/81326720_1/)
 * Dr. Mohrenschildt - специализация протезирование и коронки, в праксисе так же работает хороший врач, который лечит пародонтоз, https://roka9.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/implantologen/dr-sebastian-von-mohrenschildt/uebersicht/81166263_1/)
 * AllDent Zahnzentrum - стоматологическая неотложка, 24/7, https://www.alldent-zahnzentrum.de/zahnarzt-notdienst-muenchen.html, [ссылка на Jameda](https://www.jameda.de/muenchen/mvz-medizinische-versorgungszentren/alldent-zahnzentrum-standort-muenchen-ost/uebersicht/71401387000_2/)
-* Dr. I. Riedel - на сайтах указан русский язык, но по факту никто не говорит на русском, как врач хороший [ссылка на Jameda](https://www.jameda.de/muenchen/zahnaerzte/parodontologen/dr-i-riedel/uebersicht/81012915_1/)
+
 
 **Frauenarzt - гинеколог**
 
