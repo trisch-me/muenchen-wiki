@@ -1,6 +1,37 @@
 [Как и многие знакомые](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Radreiseanalyse/Downloads/Datenblatt_Radreiseanalyse2019_en_-_neu.pdf) я стараюсь катать круглый год, делаю это давно и с удовольствием.
 Уверен наиболее гармоничный выбор для Мюнхена – это [синглспид](https://www.youtube.com/watch?v=2fR02CLBJ6w), но с [удобным багажником](https://www.amazon.de/ZOOYAUE-Mountainbike-Maximalbelastung-Aluminiumlegierung-Installation，mit/dp/B075F2NWW8/).
-Ниже хочу поделиться проверенными аксессуарами. Более выгодные аналоги можно найти на AliExpress, Decathlon.
+
+## Как выбрать раму, седло
+
+зайти в магазин, и пройти примерку, взять результаты.
+
+делают в
+- [cube store](https://www.rabe-bike.de/en/stores/)
+- [track store](https://www.trekbikes.com/de/de_DE/retail/munchen_nord/)
+- [radlbauer](https://www.radlbauer.de/filialen/#7e0a1ed78fdaf3a620fc3ebdaa418dba)
+
+теория
+- https://www.bikeradar.com/advice/buyers-guides/best-road-bikes-2019-how-to-choose-the-right-one-for-you/
+- https://www.tredz.co.uk/size-guides/bikes
+
+## Почетные магазины
+
+в городе
+- [Second Hand Sports](https://www.secondhandsports.de)
+- [RadlBauer](https://www.radlbauer.de/filialen/#7e0a1ed78fdaf3a620fc3ebdaa418dba)
+- [Zweirad-stadler](https://shop.zweirad-stadler.de/Muenchen/)
+
+онлайн
+- https://www.cycles-for-heroes.com/kategorie/bikes/
+- https://www.bike24.de
+- https://www.bike-discount.de/en/shop
+- https://www.fahrrad.de
+- https://www.chainreactioncycles.com
+
+б/у 
+- [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+- [Stahl Archiv](https://www.facebook.com/events/304569227111239/)
+- [Radlflohmarkt](https://radlhauptstadt.muenchen.de/infos/muenchner-radlflohmarkt/)
 
 ## EDC
 
@@ -62,9 +93,26 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [Второй замок с цепью](https://www.amazon.de/BURG-WÄCHTER-Kettenkombination-Gehärtete-Vierkantkette-Kettenlänge/dp/B001BATNBK/)
 - [Замок с цепью](https://www.rosebikes.de/kryptonite-evolution-series-4-integrated-chain-1090-kettenschloss-852287) - 90cm x 10mm цепь с надёжным замком. Из недостатков - довольно тяжелыйю.
 
+## Обслуживание
+
+0. замена покрышек 
+- [выбор и тест](https://www.bicyclerollingresistance.com/the-test)
+- на синглспид беру Continental	Grand Prix 4 Season, по скидкам в ноябре
+1. замена тормозов и тросов
+2. замена цепи
+
+- [Selbsthilfewerkstatt](https://www.adfc-muenchen.de/service/selbsthilfewerkstatt/) За 8€ тебе все покажут и помогут. Но только по четвергам с 16:00-19:00
+- [Second Hand Sports](https://www.secondhandsports.de), Nymphenburger Str. 25, 80335 München. Им можно позвонить или емейл написать.
+- [Fahrrad Konzept](https://www.fahrradkonzept.com/reparatur)
+
+## Уличные рем. станции 
+- [Moosach](https://goo.gl/maps/ws7WaF3poSBgKhV16)
+- [Olimpia Park](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
+
 ## Основыне городские велопорталы
 
 - https://radlhauptstadt.muenchen.de/neuigkeiten/radlnews/
+- https://www.munichways.com/en/buergerinnen-radlnetz/
 - https://www.adfc-muenchen.de/
 - https://www.radentscheidmuenchen.de/aktuelles/
 - https://www.criticalmass-muenchen.de/kalender/
@@ -89,6 +137,9 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [портал Fahrrad XXL](https://www.fahrrad-xxl.de/beratung/fahrrad/stvzo/)
 - [чек-лист от focus.de](https://www.focus.de/auto/praxistipps/verkehrssicheres-fahrrad-das-besagt-die-stvo_id_7480659.html)
 
-## Уличные рем. станции 
-- [Moosach](https://goo.gl/maps/ws7WaF3poSBgKhV16)
-- [Olimpia Park](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
+## Любительские мероприятия
+
+24.05 [Ebikedays](https://www.ebikedays.de/)
+29.06 [GIRO BAVARESE](https://bicibavarese.de/giro/#anmeldung)
+30.06 [Ring Demo](https://www.radentscheidmuenchen.de/aktuelles/radl-events/rad-ringdemo/)
+10.08 [Radlnacht](https://www.muenchen.de/aktuell/2018-07/muenchner-radlnacht-eindruecke.html)
