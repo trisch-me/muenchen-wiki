@@ -107,7 +107,7 @@ Every Day Carry – для меня это аптечка и инструмен�
 
 ## Уличные рем. станции 
 - [Moosach](https://goo.gl/maps/ws7WaF3poSBgKhV16)
-- [Olimpia Park](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
+- [Olympiapark](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
 
 ## Основыне городские велопорталы
 
