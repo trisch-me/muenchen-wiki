@@ -25,6 +25,7 @@
 - https://www.bike-discount.de/en/shop
 - https://www.fahrrad.de
 - https://www.chainreactioncycles.com
+- https://www.canyon.com
 
 б/у 
 - [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
