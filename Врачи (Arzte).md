@@ -34,3 +34,4 @@ Hausarzt - он же домашний врач. Тот врач, к которо
 * Tiergesundheitszentrum München - очень качественные ветеринары, https://www.tgz-muenchen.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/praxisgemeinschaften/tiergesundheitszentrum-muenchen-dres-astrid-schubert-und-kerstin-koerber/uebersicht/71252666000_2/)
 * Dr. med. Vet. Andre Synilo - русскоговорящий врач ветеринар, http://tierarzt-feldkirchen.de/
 * Tierklinik Oberhaching, Notfall Klinik - полностью оборудованная больница для животных, работает 24 часа в сутки, для экстренных случаев, https://www.tierklinik-oberhaching.de/
+* Tierklinik Haar — ещё одна полностью оборудованная больница для животных на востоке города, с круглосуточным приёмом для экстренных случаев, https://www.tierklinik-haar.de
