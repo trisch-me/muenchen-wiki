@@ -9,6 +9,16 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 
 У нас есть чат в телеграме - https://t.me/muenchentraktor. Если у вас есть вопросы о жизни в Мюнхене, добро пожаловать в чат.
 
+Помимо основного чата есть куча ответвлений:
+
+* Отдельный женский чат - https://t.me/girlsingermany
+* Финансовый чат: все о деньгах, вложениях, иногда о зарплатах - https://t.me/munichmoney
+* Selbstständig чат для предпринимателей - https://t.me/Freiberufler
+* Чат для родителей - https://t.me/MunichEltern
+* IT chat - https://t.me/muchino
+* Чат для вопросам по велосипедам - https://t.me/munich_mtb
+* Чат для вопросов по зимним видам отдыха, лыжи, борд и т.д. - https://t.me/muenchenWinter
+
 Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
 
 Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [карте гугл мапс](http://bit.ly/muenchen_map) :)
