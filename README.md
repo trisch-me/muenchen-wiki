@@ -18,6 +18,7 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 * IT chat - https://t.me/muchino
 * Чат для вопросам по велосипедам - https://t.me/munich_mtb
 * Чат для вопросов по зимним видам отдыха, лыжи, борд и т.д. - https://t.me/muenchenWinter
+* Чат по машинам - https://t.me/munich_cars
 
 Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
 
