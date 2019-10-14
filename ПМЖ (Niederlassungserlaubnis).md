@@ -18,8 +18,8 @@
 - Bestätigung über Integrationskurs - необходимо сдать Einbürgerungstest в ближайшей VHS. Записываться лучше сильно заранее
 - Lohnabrechnungen / Зарплатные квитки за последние три месяца
 - Mietvertrag / Контракт на аренду жилья
-- Schuldenerklärung des Antragstellers - Заявление об отсутствии правонарушений
-- Schuldenerklärung des Ehegatten - Заявление об отсутствии правонарушений от супруги/супруга
+- Schuldenerklärung des Antragstellers - Заявление об отсутствии задолженностей (заполняется самостоятельно)
+- Schuldenerklärung des Ehegatten - Заявление об отсутствии задолженностей от супруги/супруга
 - 1 фото (35x45mm), не старше 6 мес
 - Kindergeldnachweis / Подтверждение о получении Kindergeld (детского пособия)
 - Rentenversicherungsnachweis / Подтверждение о пенсионных взносах за 21 мес. Берется в пенсионном фонде
