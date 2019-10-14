@@ -8,7 +8,7 @@
 Для получения термина на NE после 21 мес при действующей Blue Karte необходимо:
 - перейти на страницу https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-fuer-nicht-eu-buerger-beantragen-und-verlaengern/
 - В разделе *Ansprechpartner* в выпадающем списке выбрать первую букву своей фамилии.
-- При заполнении личных данных, необходимо в поле *Bemerkungen* (примечания) написать что-то вроде "Ich möchte für Niederlassungserlaubnis beantragen", иначе вашу запись анулируют с коментарием, что ваша текущая карта еще действительна.
+- При заполнении личных данных, необходимо в поле **Bemerkungen** (примечания) написать что-то вроде "Ich möchte für Niederlassungserlaubnis beantragen", иначе вашу запись анулируют с коментарием, что ваша текущая карта еще действительна.
 
 ## Список документов (может варьироваться в зависимости от конкретного бератора):
 - Анкета / Заявка на получение NE (форму пришлют на email, либо по почте)
