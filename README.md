@@ -16,7 +16,7 @@ join our (russian speaking) chat on telegram https://t.me/muenchentraktor
 * Selbstständig чат для предпринимателей - https://t.me/Freiberufler
 * Чат для родителей - https://t.me/MunichEltern
 * IT chat - https://t.me/muchino
-* FB группа понаехавщих Айтишников Мюнхена - https://www.facebook.com/groups/traktoristi.v.munchene/
+* FB группа понаехавших Айтишников Мюнхена - https://www.facebook.com/groups/traktoristi.v.munchene/
 * Чат для вопросам по велосипедам - https://t.me/munich_mtb
 * Чат для вопросов по зимним видам отдыха, лыжи, борд и т.д. - https://t.me/muenchenWinter
 * Чат по машинам - https://t.me/munich_cars
