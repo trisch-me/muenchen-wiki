@@ -12,4 +12,4 @@
 
 ## Fahrschule S.Nikitin
 
-[Fahrschule S.Nikitin](http://fahrschule-nikitin.de/) автошкола на Hiterbärenbadsrasse.
+[Fahrschule Sergey Nikitin](http://fahrschule-nikitin.de/) автошкола на Hinterbärenbadstrasse 80.
