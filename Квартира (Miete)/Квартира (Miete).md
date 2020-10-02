@@ -38,7 +38,7 @@
 
 6. Wohnbau GmbH — http://www.wohnbau-gmbh.de
 
-7. GEOWAG — https://www.gewofag.de
+7. GEWOFAG — https://www.gewofag.de
 
 8. WSB Bayern — http://www.wsb-bayern.de]
 
