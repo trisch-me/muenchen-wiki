@@ -16,7 +16,7 @@
 - Arbeitgeberbestätigung, не старше 4 недель (форму пришлют на email, либо по почте, можно также скачать с (muenchen.de)(https://www.muenchen.de/rathaus/dam/jcr:3992d482-509d-41ac-a399-1a65391f7172/Arbeitgeberbestaetigung.pdf))
 - Meldebescheinigung der Gemeinde / Подтверждение о регистрации (прописке), не старше 4 недель 
 - Bestätigung über Integrationskurs - необходимо сдать Einbürgerungstest в ближайшей VHS (новое требования от марта 2020). Записываться лучше сильно заранее
-- Lohnabrechnungen der letzten 3 Monat / Зарплатные квитки за последние три месяца
+- Lohnabrechnungen der letzten 3 Monate / Зарплатные квитки за последние три месяца
 - Mietvertrag / Контракт на аренду жилья
 - Schuldenerklärung des Antragstellers - Заявление об отсутствии задолженностей (заполняется самостоятельно)
 - Schuldenerklärung des Ehegatten - Заявление об отсутствии задолженностей от супруги/супруга
