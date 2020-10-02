@@ -9,3 +9,7 @@
 
 Цены:
 ![Preise](Resources/Fahrschulen/089/089-preise.png)
+
+## Fahrschule S.Nikitin
+
+[Fahrschule S.Nikitin](http://fahrschule-nikitin.de/) автошкола на Hiterbärenbadsrasse.
