@@ -9,3 +9,7 @@
 
 Цены:
 ![Preise](Resources/Fahrschulen/089/089-preise.png)
+
+## Fahrschule S.Nikitin
+
+[Fahrschule Sergey Nikitin](http://fahrschule-nikitin.de/) автошкола на Hinterbärenbadstrasse 80.
