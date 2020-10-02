@@ -14,7 +14,7 @@
 - Анкета / Заявка на получение NE (форму пришлют на email, либо по почте, можно также скачать с [сайта Landratsamt München](https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-fuer-nicht-eu-buerger-beantragen-und-verlaengern/) на немецком или английском языке)
 - Паспорт
 - Arbeitgeberbestätigung, не старше 4 недель (форму пришлют на email, либо по почте, можно также скачать с (muenchen.de)(https://www.muenchen.de/rathaus/dam/jcr:3992d482-509d-41ac-a399-1a65391f7172/Arbeitgeberbestaetigung.pdf))
-- Meldebescheinigung der Gemeinde / Подтверждение о регистрации (прописке), не старше 4 недель 
+- Meldebescheinigung / Подтверждение о регистрации (прописке) c актуальным адресом
 - Bestätigung über Integrationskurs - необходимо сдать Einbürgerungstest в ближайшей VHS (новое требования от марта 2020). Записываться лучше сильно заранее
 - Lohnabrechnungen der letzten 3 Monate / Зарплатные квитки за последние три месяца
 - Mietvertrag / Контракт на аренду жилья
