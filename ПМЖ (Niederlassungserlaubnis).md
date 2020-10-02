@@ -5,7 +5,7 @@
 ## Landkreis München
 АБХ для зарегистрированных в [Landkreis München](https://ru.wikipedia.org/wiki/Мюнхен_(район)) находится по адресу: *Ludmillastraße 26, 81543 München*
 
-Для получения термина на NE после 21 месяцев или 33 месяцев при действующей Blue Karte необходимо:
+Для получения термина на NE после 21 месяца или 33 месяцев при действующей Blue Karte необходимо:
 - Перейти на страницу https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-fuer-nicht-eu-buerger-beantragen-und-verlaengern/
 - В разделе *Ansprechpartner* в выпадающем списке выбрать первую букву своей фамилии.
 - При заполнении личных данных, необходимо в поле **Bemerkungen** (примечания) написать что-то вроде "Ich möchte für Niederlassungserlaubnis beantragen", иначе вашу запись анулируют с коментарием, что ваша текущая карта еще действительна.
