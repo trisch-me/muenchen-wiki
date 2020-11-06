@@ -1,25 +1,25 @@
-[Как и многие знакомые](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Radreiseanalyse/Downloads/Datenblatt_Radreiseanalyse2019_en_-_neu.pdf) я стараюсь катать круглый год, делаю это давно и с удовольствием.
-Уверен наиболее гармоничный выбор для Мюнхена – это [синглспид](https://www.youtube.com/watch?v=2fR02CLBJ6w), но с [удобным багажником](https://www.amazon.de/ZOOYAUE-Mountainbike-Maximalbelastung-Aluminiumlegierung-Installation，mit/dp/B075F2NWW8/).
+[Как и многие знакомые],(https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Radreiseanalyse/Downloads/Datenblatt_Radreiseanalyse2019_en_-_neu.pdf) я стараюсь катать круглый год, делаю это давно и с удовольствием.
+Уверен, наиболее гармоничный выбор для Мюнхена – это [синглспид](https://www.youtube.com/watch?v=2fR02CLBJ6w), но с [удобным багажником](https://www.amazon.de/ZOOYAUE-Mountainbike-Maximalbelastung-Aluminiumlegierung-Installation，mit/dp/B075F2NWW8/).
 
 ## Как выбрать раму, седло
-зайти в магазин, и пройти примерку, взять результаты.
+Зайти в магазин и пройти примерку, взять результаты.
 
-- [rose store](https://www.rosebikes.com/about-rose/rose-stores). Lessingstraße 14 80336 Munich.
+- [rose store](https://www.rosebikes.com/about-rose/rose-stores). Lessingstraße, 14 80336 Munich.
 - [cube store](https://www.rabe-bike.de/en/stores/)
 - [track store](https://www.trekbikes.com/de/de_DE/retail/munchen_nord/)
 - [radlbauer](https://www.radlbauer.de/filialen/#7e0a1ed78fdaf3a620fc3ebdaa418dba)
 
 - [теория про размеры, геометрию рам](https://www.tredz.co.uk/size-guides/bikes)
-- [выбор седла в 2rad](https://www.xn--2rad-mnchen-yhb.de/service/). Georgenstr. 39 80799 Munich.
+- [выбор седла в 2rad](https://www.xn--2rad-mnchen-yhb.de/service/). Georgenstraße, 39 80799 Munich.
 
 ## Почетные магазины
 
-в городе
+В городе
 - [Second Hand Sports](https://www.secondhandsports.de)
 - [RadlBauer](https://www.radlbauer.de/filialen/#7e0a1ed78fdaf3a620fc3ebdaa418dba)
 - [Zweirad-stadler](https://shop.zweirad-stadler.de/Muenchen/)
 
-онлайн
+Онлайн
 - https://www.bike24.de
 - https://www.bike-discount.de/en/shop
 - https://www.fahrrad.de
@@ -28,23 +28,23 @@
 - https://www.bulls.de/
 - https://www.ghost-bikes.com
 
-синглспиды
+Синглспиды
 - [Fixie Inc.](https://www.cycles-for-heroes.com/kategorie/bikes/)
 
-б/у 
+Б/У 
 - [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 - [Stahl Archiv](https://www.facebook.com/events/304569227111239/)
 - [Radlflohmarkt в апреле](https://radlhauptstadt.muenchen.de/infos/muenchner-radlflohmarkt/)
 - [Flohmarkt im Olympiapark каждую субботу](https://www.muenchen.de/veranstaltungen/event/10438.html)
 
-прокат
+Прокат
 - [от месяца swapfiles](https://swapfiets.de/offer/munich)
 - [MVG Rad / MVG eRad](https://www.mvg.de/services/mobile-services/mvg-rad.html)
 
 ## EDC
-Every Day Carry – для меня это аптечка и инструмент.
+Every Day Carry. Для меня это — аптечка и инструмент.
 - [чехол фляга](https://www.amazon.de/huangThroStore-Reparatur-Werkzeug-Aufbewahrungskoffer-Selbstklebendes-Multifunktionswerkzeug/dp/B07Q8JWZQH/)
-- карандаш и пара стикеров, для заметок
+- карандаш и пара стикеров для заметок
 - визитка: с номером телефона, адресом, именем, номером страховки, телефоном близкого человека
 
 #### Аптечка
@@ -85,28 +85,28 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [как же использовать замок](https://www.youtube.com/watch?v=JgHubY5Vw3Y)
 - [замена эксцентрикам](https://www.amazon.de/gp/product/B007M32HVS/)
 - [U-lock с тросом](https://www.amazon.de/Kryptonite-Bügelschloss-Evolution-Mini-7-U-Lock/dp/B07BH26XR8/)
-- [Второй замок с цепью](https://www.amazon.de/BURG-WÄCHTER-Kettenkombination-Gehärtete-Vierkantkette-Kettenlänge/dp/B001BATNBK/)
-- [Замок с цепью](https://www.rosebikes.de/kryptonite-evolution-series-4-integrated-chain-1090-kettenschloss-852287) - 90cm x 10mm цепь с надёжным замком. Из недостатков - довольно тяжелыйю.
+- [второй замок с цепью](https://www.amazon.de/BURG-WÄCHTER-Kettenkombination-Gehärtete-Vierkantkette-Kettenlänge/dp/B001BATNBK/)
+- [замок с цепью](https://www.rosebikes.de/kryptonite-evolution-series-4-integrated-chain-1090-kettenschloss-852287) - 90cm x 10mm цепь с надёжным замком. Из недостатков - довольно тяжелыйю.
 
 ## Обслуживание
-0. замена покрышек 
+0. Замена покрышек 
 - [выбор и тест](https://www.bicyclerollingresistance.com/the-test)
 - на синглспид беру Continental	Grand Prix 4 Season, по скидкам в ноябре
-1. замена тормозов и тросов
-2. замена цепи
+1. Замена тормозов и тросов
+2. Замена цепи
 
-- [Selbsthilfewerkstatt](https://www.adfc-muenchen.de/service/selbsthilfewerkstatt/). Platenstr. 4 
-80336 Munich, За 8€ тебе все покажут и помогут. Но только по четвергам с 16:00-19:00
-- [Second Hand Sports](https://www.secondhandsports.de). Nymphenburger Str. 25, 80335 München. Им можно позвонить или емейл написать.
-- [Fahrrad Konzept](https://www.fahrradkonzept.com/reparatur). Goethestr. 41, 80336 Munich.
+- [Selbsthilfewerkstatt](https://www.adfc-muenchen.de/service/selbsthilfewerkstatt/). Platenstraße, 4 
+80336 München. За 8€ все покажут и помогут. Но открыто только по четвергам — с 16:00-19:00.
+- [Second Hand Sports](https://www.secondhandsports.de). Nymphenburger Straße, 25 80335 München. Им можно позвонить или написать email.
+- [Fahrrad Konzept](https://www.fahrradkonzept.com/reparatur). Goethestraße 41, 80336 München.
 
 ## Страховка
-- [маркеровка в ADFC](https://www.adfc-muenchen.de/service/fahrradcodierung/)
+- [маркировка в ADFC](https://www.adfc-muenchen.de/service/fahrradcodierung/)
 - [bikepass](https://www.polizei-beratung.de/presse/detailseite/keine-chance-fuer-fahrrad-diebe-2/)
 - [калькулятор от check24](https://www.check24.de/fahrradversicherung/)
 - [тарифы от enra](https://www.enra.eu/#wowtarife)
 
-## Уличные рем. станции 
+## Уличные ремстанции 
 - [Moosach](https://goo.gl/maps/ws7WaF3poSBgKhV16)
 - [Olympiapark](https://goo.gl/maps/GYdJrGNbfJZp2K3V6)
 - [Arnulfpark](https://goo.gl/maps/Jbg7DQXW53HXHffd6)
@@ -137,7 +137,7 @@ Every Day Carry – для меня это аптечка и инструмен�
 - [портал Fahrrad XXL](https://www.fahrrad-xxl.de/beratung/fahrrad/stvzo/)
 - [чек-лист от focus.de](https://www.focus.de/auto/praxistipps/verkehrssicheres-fahrrad-das-besagt-die-stvo_id_7480659.html)
 
-Требования к вело свету
+Требования к велосвету
 > https://www.bussgeldkatalog.de/fahrradbeleuchtung/
 
 Ограничения на велодорожке для шоссейных велосипедов
