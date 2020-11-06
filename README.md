@@ -15,12 +15,12 @@ Join our Telegram chat (in Russian): https://t.me/muenchentraktor
 * Финансовый чат: все о деньгах, вложениях, иногда о зарплатах - https://t.me/munichmoney
 * Selbstständig чат для предпринимателей - https://t.me/Freiberufler
 * Чат для родителей - https://t.me/MunichEltern
-* IT chat - https://t.me/muchino
-* FB группа «понаехавших» айтишников Мюнхена - https://www.facebook.com/groups/traktoristi.v.munchene/
-* Чат для вопросам по велосипедам - https://t.me/munich_mtb
-* Чат для вопросов по зимним видам отдыха: лыжи, борд и т.д. - https://t.me/muenchenWinter
+* IT-чат - https://t.me/muchino
+* FB-группа «понаехавших» айтишников Мюнхена - https://www.facebook.com/groups/traktoristi.v.munchene/
+* Велочат - https://t.me/munich_mtb
+* Чат по зимним видам отдыха: лыжи, борд и т.д. - https://t.me/muenchenWinter
 * Авточат - https://t.me/munich_cars
 
 Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
 
-Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [Goole Maps](http://bit.ly/muenchen_map) :)
+Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [Google Maps](http://bit.ly/muenchen_map) :)
