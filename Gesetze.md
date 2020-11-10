@@ -1,6 +1,6 @@
-**Перевод немецких законов на английский**
+**Тексты немецких законов на английском языке**
 
-https://www.gesetze-im-internet.de/Teilliste_translations.html
+www.gesetze-im-internet.de/Teilliste_translations.html
 
 
-Residence - https://www.gesetze-im-internet.de/englisch_aufenthg/index.html 
+Пребывание / Residence - www.gesetze-im-internet.de/englisch_aufenthg/index.html 
