@@ -3,11 +3,11 @@
 
 **Allgemeinmedizin - общая медицина**
 
-Hausarzt - он же домашний врач. Тот врач, к которому вы идете, если болит горло или есть насморк, у вас появились вопросы, когда где-то что-то заболело или выскосичла непонятная херня, чтобы сделать прививки и т.д.
+Hausarzt - он же домашний врач. Тот врач, к которому вы идете, если болит горло или есть насморк, у вас появились вопросы, когда где-то что-то заболело или выскочила непонятная фигня, чтобы сделать прививки и т.д.
 Хороший домашний врач просто необходим. Раньше даже нельзя было посетить другого врача (специалиста) без направления от домашнего. Сейчас такое правило уже не действует, но можно ходить за советами и рекомендациями. Когда врач хороший - это того стоит.
 * Frau Alcock - http://alcock-bogner.de/, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/innere-allgemeinmediziner/dr-ulrike-alcock/uebersicht/80317078_1/)
 * Frau Armborst (München Kreis - Ismaning) - http://praxis-armborst.de/, [ссылка на Jameda](https://www.jameda.de/ismaning/aerzte/innere-allgemeinmediziner/katja-armborst/uebersicht/81344582_1/)
-* Frau Oksana Vovk-Debryckyi - русскоговорящий врач [ссылка на Jameda] (https://www.jameda.de/muenchen/aerzte/innere-allgemeinmediziner/dr-oksana-vovk-debryckyi/uebersicht/81002685_1/)
+* Frau Oksana Vovk-Debryckyi - русскоговорящий врач, [ссылка на Jameda](https://www.jameda.de/muenchen/aerzte/innere-allgemeinmediziner/dr-oksana-vovk-debryckyi/uebersicht/81002685_1/)
 
 
 **Zahnarzt - стоматолог**
