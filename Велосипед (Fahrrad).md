@@ -1,4 +1,4 @@
-[Как и многие знакомые],(https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Radreiseanalyse/Downloads/Datenblatt_Radreiseanalyse2019_en_-_neu.pdf) я стараюсь катать круглый год, делаю это давно и с удовольствием.
+[Как и многие знакомые](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Radreiseanalyse/Downloads/Datenblatt_Radreiseanalyse2019_en_-_neu.pdf), я стараюсь катать круглый год, делаю это давно и с удовольствием.
 Уверен, наиболее гармоничный выбор для Мюнхена – это [синглспид](https://www.youtube.com/watch?v=2fR02CLBJ6w), но с [удобным багажником](https://www.amazon.de/ZOOYAUE-Mountainbike-Maximalbelastung-Aluminiumlegierung-Installation，mit/dp/B075F2NWW8/).
 
 ## Как выбрать раму, седло
