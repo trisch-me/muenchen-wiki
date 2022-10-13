@@ -12,29 +12,43 @@
 Для получения термина на NE после 21 месяца или 33 месяцев при действующей Blue Karte необходимо:
 - Перейти на [страницу услуги](https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-unbefristet-fuer-nicht-eu-buerger-beantragen/)
 - В разделе *Ansprechpartner* в выпадающем списке найти актуальный адрес чиновника, который в настоящее время занимается этими вопросами.
-- Написать по указанному адресу электронной почтой то, что вы хотели бы получить Niederlassungserlaubnis в связи с тем-то и тем-то. В ответ бератор пришлёт вам список требуемых документов.
-- Бланк документа Schuldenerklärung должен быть с пометкой Landkreis München. Поэтому его, как и бланк Wohnraumbescheinigung, желательно запросить у вашего бератора.
+- Написать по указанному адресу электронной почтой то, что вы хотели бы получить Niederlassungserlaubnis. Список документов смотрите ниже.
 
-## Список документов (может варьироваться в зависимости от конкретного бератора):
-- Анкета / Заявка на получение NE (форму пришлют на email, либо по почте, можно также скачать с [сайта Landratsamt München](https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-unbefristet-fuer-nicht-eu-buerger-beantragen/) на немецком или английском языке)
-- Паспорт
-- Arbeitgeberbestätigung, не старше 4 недель (форму пришлют на email, либо по почте, можно также скачать с (muenchen.de)(https://www.muenchen.de/rathaus/dam/jcr:3992d482-509d-41ac-a399-1a65391f7172/Arbeitgeberbestaetigung.pdf))
-- Meldebescheinigung / Подтверждение о регистрации (прописке) c актуальным адресом
-- Bestätigung über Integrationskurs - необходимо сдать Einbürgerungstest в ближайшей VHS (новое требования от марта 2020). Записываться лучше сильно заранее. Сдавать можно не только в Мюнхене, но и в отдаленных городках, где очередь сильно меньше. Ближайший по времени термин на сдачу можно искать [тут](https://www.vhs-sprachpruefungen.de/Pr%C3%BCfungen/Modul.aspx?ModulID=186), после чего надо связаться со школой и зарегистрироваться.
-- Lohnabrechnungen der letzten 3 Monate / Зарплатные квитки за последние три месяца
-- Mietvertrag / Контракт на аренду жилья
-- Schuldenerklärung des Antragstellers - Заявление об отсутствии задолженностей (заполняется самостоятельно)
-- Schuldenerklärung des Ehegatten - Заявление об отсутствии задолженностей от супруги/супруга
-- 1 биометрическое фото (35x45mm), не старше 6 месяцев
+## Список документов
+
+Актуальный список можно найти в виде памятки на все [той же странице](https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/aufenthaltstitel-unbefristet-fuer-nicht-eu-buerger-beantragen/), в разделе *Formulare und Merkbläter* → *Merkblatt: Übersicht der unbefristeten Aufenthaltstitel* ([ссылка на pdf](https://formulare.landkreis-muenchen.de/cdm/cfs/eject/gen?MANDANTID=68&FORMID=7202)).
+
+> Внимание! Всегда сверяйтесь с официальной информацией. Информация ниже дана для ознакомления. 
+>  
+> Актуальность прямых ссылок на документы проверена по состоянию на октябрь 2022.
+
+В этой памятке перечислены параграфы закона, на основании которых можно претендовать на NE (ПМЖ дают не только блаукарточникам), соответствующие предусловия (Voraussetzungen) и требуемые документы (benötigte Unterlagen). 
+
+В частности, вам потребуется:
+- **Анкета / Заявка** на получение NE ([ссылка на форму](https://formulare.landkreis-muenchen.de/cdm/cfs/eject/pdf/4255.pdf?MANDANTID=1&FORMID=4255))
+- **Паспорт**
+- **Arbeitgeberbestätigung** не старше 4 недель ([ссылка на форму](https://formulare.landkreis-muenchen.de/cdm/cfs/eject/pdf/4266.pdf?MANDANTID=68&FORMID=4266))
+- Meldebescheinigung / Подтверждение о регистрации (прописке) c актуальным адресом 
+  - (*Требуется перепроверка: в списках за окт. 2022 не значится)
+- **Bestätigung über Integrationskurs** - требование с марта 2020. Необходимо пройти Einbürgerungstest (в прошлом Leben in Deutschland) в любом VHS или другом аккредитованном учреждении. 
+- **Lohnabrechnungen** der letzten 3 Monate / Зарплатные квитки за последние три месяца
+- **Mietvertrag** / Контракт на аренду жилья
+- **Schuldenerklärung** des Ausländerangelegenheiten / Заявление об отсутствии задолженностей ([ссылка на форму](https://formulare.landkreis-muenchen.de/cdm/cfs/eject/pdf/7199.pdf?MANDANTID=68&FORMID=7199))
+- Schuldenerklärung des Ehegatten / Заявление об отсутствии задолженностей от супруги/супруга
+  - (*Требуется перепроверка: в списках за окт. 2022 не значится)
+- **1 биометрическое фото** (35x45mm), не старше 6 месяцев
 - Kindergeldnachweis / Подтверждение о получении Kindergeld (детского пособия)
-- Rentenversicherungsnachweis (Wartezeitauskunft) / Подтверждение о пенсионных взносах за 21 месяц или 33 месяца. Берется в пенсионном фонде, также можно заказать [онлайн](https://www.eservice-drv.de/SelfServiceWeb/), для чего выбрать опцию "Rentenauskunft" - придет по почте в течение одной-двух недель. 
-- Nachweis Sprachstand (B1 / A1) / Сертификат об уровне языка B1 после 21 месяца или А1 после 33 месяцев.
-- Wohnraumbescheinigung / Справка о достаточности жилой площади квартиры. Заполняется лендлордом, заверяется в Gemeinde (местной администрации вашего населенного пункта)
+  - (*Требуется перепроверка: в списках за окт. 2022 не значится)
+- **Rentenversicherungsnachweis** (Wartezeitauskunft) / Подтверждение о пенсионных взносах за 21 месяц или 33 месяца. Запрашивается в пенсионном фонде [онлайн](https://www.eservice-drv.de/SelfServiceWeb/), для чего выбрать опцию "Rentenauskunft", указать номер страховки и имя - бумаги придут по почте в течение одной-двух недель. 
+- **Nachweis Sprachstand** (B1 / A1) / Сертификат об уровне языка B1 после 21 месяца или А1 после 33 месяцев.
+- **Wohnraumbescheinigung** / Справка о достаточности жилой площади квартиры. [Формуляр](https://formulare.landkreis-muenchen.de/cdm/cfs/eject/pdf/7215.pdf?MANDANTID=68&FORMID=7215) заполняется и подписывается лендлордом, заверяется в Gemeinde (местной администрации вашего населенного пункта).
 
 ## Рекомендации
 
 ### Планируйте заранее
 Процесс сбора необходимых документов занимает 2-3 месяца. Примерно такое же время уходит от получения термина в АБХ до самой подачи документов. Это означает, что готовиться и начинать общаться с АБХ можно начинать за 2-3 месяца, что бы к моменту самого наступления 21/33 месяцев вы уже были готовы подаваться и имели термин.
+
+Особо много времени потребуется, чтобы получить результаты Einbürgerungstest. Они приходят через 6-8 недель после теста, сам тест проходит раз в месяц, спрос большой. Как следствие - ближайшая открытая регистрация через полгода. Лайфхак: поищите места вне Мюнхена, куда на экзамен можно попасть пораньше. Ближайший по времени термин на сдачу можно искать [тут](https://www.vhs-sprachpruefungen.de/Pr%C3%BCfungen/Modul.aspx?ModulID=186), после чего надо связаться со школой и зарегистрироваться.
 
 ### Получение NE после подачи документов в АБХ
 Процесс занимает 6-8 недель, сама карточка приходит по почте.
