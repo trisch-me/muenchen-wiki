@@ -12,7 +12,7 @@ Join our Telegram chat (in Russian): https://t.me/muenchentraktor
 Помимо основного чата есть куча ответвлений:
 
 * Отдельный женский чат - https://t.me/girlsingermany
-* Финансовый чат: все о деньгах, вложениях, иногда о зарплатах - https://t.me/munichmoney
+* Финансовый чат: все о деньгах, вложениях, иногда о зарплатах - https://t.me/germanyfinchat_ru
 * Selbstständig чат для предпринимателей - https://t.me/freiberufler_werden
 * Чат для родителей - https://t.me/MunichEltern
 * IT-чат - https://t.me/muchino
