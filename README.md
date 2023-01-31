@@ -21,6 +21,5 @@ Join our Telegram chat (in Russian): https://t.me/muenchentraktor
 * Чат по зимним видам отдыха: лыжи, борд и т.д. - https://t.me/muenchenWinter
 * Авточат - https://t.me/munich_cars
 
-Есть забытый чат в слаке (кандидат на удаление, если не оживет) - [линк](https://join.slack.com/t/tracktor2munich/shared_invite/enQtNDEwNjYyMTE5ODI0LThlZDYyNWM3ZGEwOTEyOGFmYTkwOGIzZGQxODM4MDM5YzQwYmU0MGM5OTcwYmM2MDI2MzM1ZmRhZTQyZTNiYjk)
 
 Все предложенные места, которые имеют физический адрес, будут по возможности сохраняться в [Google Maps](http://bit.ly/muenchen_map) :)
