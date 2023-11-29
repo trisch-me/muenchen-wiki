@@ -150,6 +150,14 @@ Every Day Carry. Для меня это — аптечка и инструмен
 - [провоз велосипедов в MVV сети](https://www.mvv-muenchen.de/tickets/tickets-tageskarten/fahrrad-tageskarte/index.html)
 - [региональные билеты](https://bahnland-bayern.de/de/tickets/regionale-tickets)
 
+| Билет                                                                                        | Цена | Зона действия | Транспорт                   |
+|----------------------------------------------------------------------------------------------|------|---------------|-----------------------------|
+| [MVV](https://www.mvv-muenchen.de/tickets/tickets-tageskarten/fahrrad-tageskarte/index.html) | ~3 € | MVV           | Региональные поезда + метро |
+| [Fahrrad-Tageskarte Bayern][db-radtickets]                                                   | ~6 € | Бавария       | Региональные поезда + метро |
+| [Fahrradtageskarte Nahverkehr][db-radtickets]                                                | ~6 € | Германия      | Региональные поезда         |
+
+[db-radtickets]: https://www.bahn.de/angebot/zusatzticket/fahrrad
+
 ## Любительские мероприятия
 24.05 [Ebikedays](https://www.ebikedays.de/)
 29.06 [GIRO BAVARESE](https://bicibavarese.de/giro/#anmeldung)
