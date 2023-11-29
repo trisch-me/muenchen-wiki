@@ -21,7 +21,9 @@
 
 Онлайн
 - https://www.bike24.de
+- https://www.bike-components.de/
 - https://www.bike-discount.de/en/shop
+- https://www.biker-boarder.de/
 - https://www.fahrrad.de
 - https://www.chainreactioncycles.com
 - https://www.canyon.com
